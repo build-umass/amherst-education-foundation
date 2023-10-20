@@ -1,8 +1,8 @@
-# IUCG Insights Blog
+# Amherst Education Foundation Website
 
-Business Insights web application built by developers at BUILD using the MERN stack for the analysts at IUCG UMass Amherst.
+This is a repository for the website revamp of the Amherst Education Foundation project (AEF), a foundation for support K12 schools in the Amherst area. Created with the MERN stack.
 
-# Running the application for the first time
+# Setup Instructions
 
 ## Setup Local DB
 Create a database specific to your testing:
